@@ -4,9 +4,9 @@
 This project investigates employment trends in Canada by comparing the **pre-pandemic period (2015–2019)** to the **post-pandemic period (2020–2024)**. Using data cleaning, visualization, and analysis techniques in R, this study identifies changes in employment patterns due to the COVID-19 pandemic.
 
 ## 📊 Dataset
-- **File Used**: `employment_trends.csv`
-- **Source**: [Employment Trends]([https://www.statcan.gc.ca/](https://www.kaggle.com/datasets/noeyislearning/employment-trends))
-- **Time Period**: January 2015 to December 2024
+- **File Used**: `employment_trends.csv`  
+- **Source**: [Employment Trends](https://www.kaggle.com/datasets/noeyislearning/employment-trends)  
+- **Time Period**: January 2015 to December 2024  
 - **Data Includes**: Monthly employment figures across multiple sectors and provinces.
 
 ## 🛠️ Tools & Libraries
