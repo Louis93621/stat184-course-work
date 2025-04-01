@@ -5,7 +5,7 @@ This project investigates employment trends in Canada by comparing the **pre-pan
 
 ## 📊 Dataset
 - **File Used**: `employment_trends.csv`
-- **Source**: [StatCan (Statistics Canada)](https://www.statcan.gc.ca/)
+- **Source**: [Employment Trends]([https://www.statcan.gc.ca/](https://www.kaggle.com/datasets/noeyislearning/employment-trends))
 - **Time Period**: January 2015 to December 2024
 - **Data Includes**: Monthly employment figures across multiple sectors and provinces.
 
